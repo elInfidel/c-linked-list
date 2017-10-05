@@ -1,0 +1,27 @@
+# This is the small address book file.
+# Each line of this file contains a phone book entry.
+# The order of the data is: ID, Name, Telephone
+# 
+# Note: Lines starting with # are comments and should be ignored.
+#
+100, Alice, 0411112222
+101, Bob, 0411112222
+102, Ali, 0411112223
+103, Reza, 0411112224
+104, Ryan, 0411112225
+105, Aaron, 0411112226
+106, Jessica, 0411112227
+107, Xudong, 0411112228
+108, James, 0411112229
+109, Shaahin, 0411112230
+110, Matthew, 0411112231
+111, Paul, 0411112232
+112, Elton, 0411112233
+113, Joe, 0411112234
+114, Daniel, 0411112235
+115, Anthony, 0411112236
+116, Kelvin, 0411112237
+117, Harry, 0411112238
+118, Zhaowei, 0411112239
+119, Lei, 0411112240
+120, Forest, 0411112241
